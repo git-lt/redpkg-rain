@@ -5,10 +5,11 @@
 ## 启动
 
 ```
+npm install
 npm start
 ```
 
-<!-- ![截图](https://s2.ax1x.com/2020/01/13/lHRD1A.jpg) -->
+![截图](https://s2.ax1x.com/2020/01/17/lzV6iD.jpg)
 
 ## 开发步骤
 
@@ -197,7 +198,7 @@ const app = new Phaser.Game({
 
 这里可以根据具体的业务处理相关展示逻辑，一般放抽奖结果展示，和引导用户关注或购买
 
-相关代码请看 [GitHub]()
+相关代码请看 [GitHub](https://github.com/git-lt/redpkg-rain.git)
 
 参考
 
