@@ -1,0 +1,19 @@
+{
+  "name": "redpkg-rain",
+  "version": "1.0.0",
+  "description": "使用 Phaserjs3 + TS 抢红包，红包雨效果",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "phaser": "^3.21.0",
+    "typescript": "^3.7.4"
+  },
+  "dependencies": {
+    "assets": "^3.0.1"
+  }
+}
